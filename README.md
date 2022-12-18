@@ -1,1 +1,1 @@
-TSP (Traveling Salesman Problem) solution using metaheuristics.
+TSP (Travelling Salesman Problem) solution using metaheuristics.
